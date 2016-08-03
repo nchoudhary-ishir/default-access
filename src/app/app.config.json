@@ -1,0 +1,13 @@
+{
+  "appname": "default access",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "F006966B-0AB9-486E-879F-EC9528D86829",
+  "buyerid": null,
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
